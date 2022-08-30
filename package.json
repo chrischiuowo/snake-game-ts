@@ -1,0 +1,18 @@
+{
+  "name": "snake-game-ts",
+  "version": "1.0.0",
+  "description": "貪吃蛇小遊戲 with TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "eslint": "^8.23.0",
+    "eslint-config-standard": "^17.0.0"
+  }
+}
