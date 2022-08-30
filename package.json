@@ -4,6 +4,7 @@
   "description": "貪吃蛇小遊戲 with TypeScript",
   "main": "index.ts",
   "scripts": {
+    "tsc": "tsc --build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,6 +14,7 @@
     "@typescript-eslint/eslint-plugin": "^5.35.1",
     "@typescript-eslint/parser": "^5.35.1",
     "eslint": "^8.23.0",
-    "eslint-config-standard": "^17.0.0"
+    "eslint-config-standard": "^17.0.0",
+    "typescript": "^4.8.2"
   }
 }
